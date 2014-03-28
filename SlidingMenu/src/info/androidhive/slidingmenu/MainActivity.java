@@ -25,10 +25,6 @@ public class MainActivity extends Activity {
 	private ListView mDrawerList;
 	private ActionBarDrawerToggle mDrawerToggle;
 
-	
-	
-	//testing
-	
 	// nav drawer title
 	private CharSequence mDrawerTitle;
 
